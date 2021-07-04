@@ -41,12 +41,6 @@ div .header {
     font-weight: bold;
 }
 
-*,
-*:before,
-*:after {
-    /* box-sizing: inherit; */
-}
-
 /* The Masonry Container */
 .masonry {
     margin: 1em auto;
